@@ -10,7 +10,7 @@ An internal door which can be CNC-manufactured and assembled as a kit without ne
 
 ![alt tag](https://github.com/wikihouseproject/Owl/blob/master/Owl_Banner.png)
 
-Traditionally, internal doors are installed by first fitting the frame into the oprning. If the opening is not precisely straight, any tolerance is absorbed by adjusting and re-hanging the door by trial and error, which requires time and skill. 
+Traditionally, internal doors are installed by first fitting the frame into the opening. If the opening is not precisely straight, any tolerance is absorbed by adjusting and re-hanging the door by trial and error, which requires time and skill. 
 
 The concept behind OWL is to custom-manufacture a complete frame and door kit, which can then be assembled. Tolerance is then left between the frame and the opening, which must be taken up using small packers (it is suggested plastic packers are used, these can be purchased in bags containing a range of sizes from 1mm-5mm). The frame can then be secured into the opening, and plywood caps fitted to conceal the fixings. Once completed, no fixings should be visible.
 
